@@ -1,0 +1,1 @@
+loop path fail: <same square> creeping eye,188,29,46 -> 189,32,46: Id #529:Path Goal Seek Station:Station Owner at 188,37,46

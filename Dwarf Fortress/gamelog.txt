@@ -1,1 +1,18 @@
 *** STARTING NEW GAME ***
+*** STARTING NEW GAME ***
+Generating world using parameter set CREATE WORLD NOW = 4114224
+ Seed: LH2ix4UqEoD7zZ7hhuvA
+ History Seed: hmwTewnoOxNE5IpkHpvq
+ Name Seed: vjqJ7Q3HVWjKezzT7bPU
+ Creature Seed: cveiyGskIQE9QHQMYNno
+Nothing has arrived on the calendar.
+The weather has cleared.
+Nothing has arrived on the calendar.
+The weather has cleared.
+** Starting New Outpost **
+There is nothing to catch in the central swamps.
+Aban Edt–lilral, Stoneworker cancels Construct rock Blocks: Needs non-economic hard rock.
+x2
+x3
+x4
+The weather has cleared.
