@@ -1,0 +1,4 @@
+2018-04-17 22:10:52.3149|WARN|SoundCenSeGTK.MainClass|Checking dll in registry
+2018-04-17 22:10:52.3350|WARN|SoundCenSeGTK.MainClass|GTK# is not installed
+2018-04-17 22:10:52.3350|FATAL|SoundCenSeGTK.MainClass|GTK-Sharp is not installed.
+2018-04-17 22:10:52.3350|FATAL|SoundCenSeGTK.MainClass|Please download and install from http://download.xamarin.com/GTKforWindows/Windows/gtk-sharp-2.12.38.msi
