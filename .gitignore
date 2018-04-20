@@ -1,2 +1,8 @@
+stderr.log
+stdout.log
+stdout.txt
 stderr.txt
+gamelog.txt
+
+LNP\Baselines\temp
 df_44_09_win\data\save
