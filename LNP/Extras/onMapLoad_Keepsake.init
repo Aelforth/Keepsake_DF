@@ -21,3 +21,6 @@ deteriorateclothes start
 
 # Deteriorates body parts and corpses after certain amounts of time: 32 + rand(8) for corpses and 8 for each stage of wear. After XX wear, corpses will collapse into ash and disappear.  
 deterioratecorpses start
+
+# Deteriorates food after 32 + rand(8) (units?). After reaching XXdeteriorationXX the foodstuff will disappear. Seeds, however, will never decay. 
+Deterioratefood start
