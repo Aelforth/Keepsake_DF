@@ -19,7 +19,7 @@ Usage: ``starvingdead (start|stop)``
 class StarvingDead
 
     def initialize
-        @threshold = 1
+        @threshold = 3
         @die_threshold = 6
     end
 
@@ -36,7 +36,7 @@ class StarvingDead
                 @undead_count += 1
                 if (u.curse.time_on_site > month_length * @threshold)
                     u.body.physical_attrs.each { |att|
-                        att.value = att.value - (att.value * 0.02)
+                        att.value = att.value + (att.value * 0.05)
                     }
                 end
 
@@ -61,7 +61,7 @@ class StarvingDead
             @die_threshold = $script_args[2].gsub(/[^0-9\.]/,'').to_f
         end
 
-        puts "Starving Dead starting...weakness starts at #{@threshold} months, true death at #{@die_threshold} months"
+        puts "Starving Dead starting...hunger starts at #{@threshold} months, true death at #{@die_threshold} months"
     end
 
     def stop
