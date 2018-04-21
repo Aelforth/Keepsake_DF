@@ -6,7 +6,7 @@
 tweak adamantine-cloth-wear
 
 # remove inverse dependency of squad training speed on unit list size and use more sparring
-tweak military-training
+# tweak military-training  #removed?
 
 
 ###########
