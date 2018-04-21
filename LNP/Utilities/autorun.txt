@@ -1,0 +1,2 @@
+DwarfTherapist\DwarfTherapist.exe
+Soundsense\soundSense.exe
