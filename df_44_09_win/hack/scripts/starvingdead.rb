@@ -20,15 +20,15 @@ class StarvingDead
 
     def initialize
         @threshold = 1
-        @die_threshold = 6
+        @die_threshold = 8
     end
 
     def process
         return false unless @running
         month_length = 67200
-        if (@undead_count >= 25)
-            month_length *= 25 / @undead_count
-        end
+        #if (@undead_count >= 50)
+        #    month_length *= 50 / @undead_count
+        #end
 
         @undead_count = 0
         df.world.units.active.each { |u|
@@ -36,7 +36,7 @@ class StarvingDead
                 @undead_count += 1
                 if (u.curse.time_on_site > month_length * @threshold)
                     u.body.physical_attrs.each { |att|
-                        att.value = att.value - (att.value * 0.02)
+                        att.value = att.value + (att.value * 0.025)
                     }
                 end
 
@@ -61,7 +61,7 @@ class StarvingDead
             @die_threshold = $script_args[2].gsub(/[^0-9\.]/,'').to_f
         end
 
-        puts "Starving Dead starting...weakness starts at #{@threshold} months, true death at #{@die_threshold} months"
+        puts "Starving Dead starting...hunger starts at #{@threshold} months, true death at #{@die_threshold} months"
     end
 
     def stop

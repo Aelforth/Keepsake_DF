@@ -197,6 +197,8 @@ loading plugin trackstop
 loaded plugin trackstop; DFHack build 0.44.09-r1-0-gb6311ec6
 loading plugin tubefill
 loaded plugin tubefill; DFHack build 0.44.09-r1-0-gb6311ec6
+loading plugin twbt
+loaded plugin twbt; DFHack build 0.44.09-r1-0-gb6311ec6
 loading plugin tweak
 loaded plugin tweak; DFHack build 0.44.09-r1-0-gb6311ec6
 loading plugin workflow
@@ -208,9 +210,9 @@ loaded plugin zone; DFHack build 0.44.09-r1-0-gb6311ec6
 Starting IO thread.
 Starting DF input capture thread.
 Starting the TCP listener.
-Invoking: gui/no-dfhack-init
 DFHack is running.
-UNKNOWN CLASS 'dfhack_lua_viewscreen@DFHack': vtable = 0x7ffb73267638
+Invoking: multilevel 5
+Invoking: twbt workshop_transparency 1
 Invoking: keybinding add Ctrl-F1 hotkeys
 Invoking: keybinding add Alt-F1 hotkeys
 Invoking: keybinding add Ctrl-W twaterlvl
@@ -336,3 +338,4 @@ Invoking: enable gui/extended-status
 Invoking: view-item-info enable
 Invoking: gui/load-screen enable
 Invoking: sc-script add SC_WORLD_LOADED onLoad.init-example
+Plugin twbt has failed to shutdown!

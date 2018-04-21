@@ -8,13 +8,13 @@ circumstances, unpack a new DF on top of an older one.
 
 Use these to control the automatic saving behavior in the dwarf fortress mode of game.  AUTOSAVE can be set to NONE, SEASONAL or YEARLY.  This updates your save at these intervals, so that some of your progress will be saved in case of system instability.  You can set AUTOBACKUP to YES if you want the updated save to be copied to another folder so that you'll have several copies of your world at different times.  Set AUTOSAVE_PAUSE to YES if you want the game to pause every time it autosaves.
 
-[AUTOSAVE:NONE]
+[AUTOSAVE:SEASONAL]
 [AUTOBACKUP:NO]
 [AUTOSAVE_PAUSE:NO]
 
 Set this to YES if you want it to save the game when you start a new fortress.  If AUTOBACKUP above is set to YES, it will also create a copy of this new save.
 
-[INITIAL_SAVE:NO]
+[INITIAL_SAVE:YES]
 
 Set this to NO to make Dwarf Fortress remain in the saved pause state when you load an active game.
 
@@ -68,7 +68,7 @@ Alter these options to control how aggressively your dwarves place objects in a 
 
 Change this to YES to disallow pets from coffin burial as the default option.
 
-[COFFIN_NO_PETS_DEFAULT:NO]
+[COFFIN_NO_PETS_DEFAULT:YES]
 
 Use these to set the color of wounded body parts.  The format is <foreground color>:<background color>:<brightness>.
 
@@ -97,45 +97,45 @@ Track tiles.  I at the end inverts the material colors.
 [TRACK_S:210]
 [TRACK_E:198]
 [TRACK_W:181]
-[TRACK_NS:179I]
-[TRACK_NE:192I]
-[TRACK_NW:217I]
-[TRACK_SE:218I]
-[TRACK_SW:191I]
-[TRACK_EW:196I]
-[TRACK_NSE:195I]
-[TRACK_NSW:180I]
-[TRACK_NEW:193I]
-[TRACK_SEW:194I]
-[TRACK_NSEW:158I]
-[TRACK_RAMP_N:30I]
-[TRACK_RAMP_S:30I]
-[TRACK_RAMP_E:30I]
-[TRACK_RAMP_W:30I]
-[TRACK_RAMP_NS:30I]
-[TRACK_RAMP_NE:30I]
-[TRACK_RAMP_NW:30I]
-[TRACK_RAMP_SE:30I]
-[TRACK_RAMP_SW:30I]
-[TRACK_RAMP_EW:30I]
-[TRACK_RAMP_NSE:30I]
-[TRACK_RAMP_NSW:30I]
-[TRACK_RAMP_NEW:30I]
-[TRACK_RAMP_SEW:30I]
-[TRACK_RAMP_NSEW:30I]
+[TRACK_NS:179]
+[TRACK_NE:192]
+[TRACK_NW:217]
+[TRACK_SE:218]
+[TRACK_SW:191]
+[TRACK_EW:196]
+[TRACK_NSE:195]
+[TRACK_NSW:180]
+[TRACK_NEW:193]
+[TRACK_SEW:194]
+[TRACK_NSEW:158]
+[TRACK_RAMP_N:30]
+[TRACK_RAMP_S:30]
+[TRACK_RAMP_E:30]
+[TRACK_RAMP_W:30]
+[TRACK_RAMP_NS:30]
+[TRACK_RAMP_NE:30]
+[TRACK_RAMP_NW:30]
+[TRACK_RAMP_SE:30]
+[TRACK_RAMP_SW:30]
+[TRACK_RAMP_EW:30]
+[TRACK_RAMP_NSE:30]
+[TRACK_RAMP_NSW:30]
+[TRACK_RAMP_NEW:30]
+[TRACK_RAMP_SEW:30]
+[TRACK_RAMP_NSEW:30]
 
 Tiles for the parts of trees.
 
-[TREE_ROOT_SLOPING:158]
-[TREE_TRUNK_SLOPING:158]
-[TREE_ROOT_SLOPING_DEAD:158]
-[TREE_TRUNK_SLOPING_DEAD:158]
-[TREE_ROOTS:133]
-[TREE_ROOTS_DEAD:133]
-[TREE_BRANCHES:245]
-[TREE_BRANCHES_DEAD:245]
-[TREE_SMOOTH_BRANCHES:245]
-[TREE_SMOOTH_BRANCHES_DEAD:245]
+[TREE_ROOT_SLOPING:118]
+[TREE_TRUNK_SLOPING:127]
+[TREE_ROOT_SLOPING_DEAD:118]
+[TREE_TRUNK_SLOPING_DEAD:127]
+[TREE_ROOTS:118]
+[TREE_ROOTS_DEAD:118]
+[TREE_BRANCHES:5]
+[TREE_BRANCHES_DEAD:5]
+[TREE_SMOOTH_BRANCHES:5]
+[TREE_SMOOTH_BRANCHES_DEAD:5]
 [TREE_TRUNK_PILLAR:10]
 [TREE_TRUNK_PILLAR_DEAD:10]
 [TREE_CAP_PILLAR:10]
@@ -216,18 +216,18 @@ Tiles for the parts of trees.
 [TREE_BRANCH_SEW_DEAD:194]
 [TREE_BRANCH_NSEW:158]
 [TREE_BRANCH_NSEW_DEAD:158]
-[TREE_TWIGS:244]
-[TREE_TWIGS_DEAD:244]
-[TREE_CAP_RAMP:30]
-[TREE_CAP_RAMP_DEAD:30]
-[TREE_CAP_FLOOR1:30]
-[TREE_CAP_FLOOR2:30]
-[TREE_CAP_FLOOR1_DEAD:30]
-[TREE_CAP_FLOOR2_DEAD:30]
-[TREE_CAP_FLOOR3:30]
-[TREE_CAP_FLOOR4:30]
-[TREE_CAP_FLOOR3_DEAD:30]
-[TREE_CAP_FLOOR4_DEAD:30]
+[TREE_TWIGS:5]
+[TREE_TWIGS_DEAD:5]
+[TREE_CAP_RAMP:112]
+[TREE_CAP_RAMP_DEAD:112]
+[TREE_CAP_FLOOR1:112]
+[TREE_CAP_FLOOR2:112]
+[TREE_CAP_FLOOR1_DEAD:112]
+[TREE_CAP_FLOOR2_DEAD:112]
+[TREE_CAP_FLOOR3:112]
+[TREE_CAP_FLOOR4:112]
+[TREE_CAP_FLOOR3_DEAD:112]
+[TREE_CAP_FLOOR4_DEAD:112]
 [TREE_TRUNK_INTERIOR:126]
 [TREE_TRUNK_INTERIOR_DEAD:126]
 
@@ -237,20 +237,20 @@ This controls the "IDLERS: <number>" that is displayed in dwarf mode.  You can s
 
 You can have your dwarves start/arrive without any labor types enabled here by setting this to NO.  You can also set it to SKILLS to make the labor list set by skill, or BY_UNIT_TYPE to have it done by overall unit type.
 
-[SET_LABOR_LISTS:SKILLS]
+[SET_LABOR_LISTS:NO]
 
 You can set the maximum population of your fortress here.  Keep in mind that your population must be at least 80 to get a king and 100 to obtain the current game features.  The strict cap also stops fort births.  Both caps can be violated by a few special cases, like the arrival of the monarch if you qualify.
 
-[POPULATION_CAP:200]
-[STRICT_POPULATION_CAP:220]
+[POPULATION_CAP:80]
+[STRICT_POPULATION_CAP:120]
 
 This allows you to control the number of babies+children in your fortress.  The first number is an absolute cap on the number of babies+children.  The second is a percentage of the current number of adults in your fortress (the default is the essentially meaningless 1000% here).  The lower number is used as the cap.  The cap only prevents further pregnancies, so migrant children, multiple births and existing pregnancies from old saves can still push you over the cap.  Setting either number to zero will disallow pregnancies in the fortress.
 
-[BABY_CHILD_CAP:100:1000]
+[BABY_CHILD_CAP:20:50]
 
 You can set the maximum number of visitors to your fort here.  This does not include merchants, diplomats, animals or invaders, but only those either dropping by for a temporary visit to a tavern, library or temple, or those seeking permanent employment.  Once you accept a petition from a visitor to stay at your fort, they no longer count against the cap, even if they never become a full citizen.  Certain traveling groups (e.g. quester parties) may also push slightly over the cap.
 
-[VISITOR_CAP:100]
+[VISITOR_CAP:10]
 
 You can set the maximum number of soldiers allowed to invade in serious invasions with these numbers.  This doesn't affect smaller raids or mounts, and ambushers and other special units will also ignore the cap.  Set INVADERS to NO above if you don't want invaders -- a cap of zero will be ignored here.
 
@@ -268,7 +268,7 @@ If you don't like the ,.`' ground, try setting this to NO.  The ground will turn
 
 If you'd like your engravings to start off looking the same (you can toggle them on individual later), set this to YES.
 
-[ENGRAVINGS_START_OBSCURED:YES]
+[ENGRAVINGS_START_OBSCURED:NO]
 
 If you get annoyed by seeing items like *<*sword*>* you can
 get rid of the outside ** by setting this to NO.
@@ -309,4 +309,4 @@ Options are REPLACE_FIRST, CENTRALIZE (between first and last), REPLACE_ALL
 
 Set this number to scale how often grazing animals need to eat.  Larger numbers mean less food is necessary.  Metabolism is always set according to the 3/4ths power of size.
 
-[GRAZE_COEFFICIENT:100]
+[GRAZE_COEFFICIENT:300]

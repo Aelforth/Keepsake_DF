@@ -1,0 +1,26 @@
+##########
+# Tweaks #
+##########
+
+# stop adamantine clothing from wearing out (bug 6481)
+tweak adamantine-cloth-wear
+
+# remove inverse dependency of squad training speed on unit list size and use more sparring
+# tweak military-training  #removed?
+
+
+###########
+# Scripts #
+###########
+
+# Undead begin decay at 3 months, and fully decay at 6 months. But instead of weakening, they strengthen...rapidly.
+starvingdead start
+
+# Clothes quickly decay. Anything with at least a decay level of 1, is not armor, and is left on the ground (not stockpiled) will quickly decay. 
+deteriorateclothes start
+
+# Deteriorates body parts and corpses after certain amounts of time: 32 + rand(8) for corpses and 8 for each stage of wear. After XX wear, corpses will collapse into ash and disappear.  
+deterioratecorpses start
+
+# Deteriorates food after 32 + rand(8) (units?). After reaching XXdeteriorationXX the foodstuff will disappear. Seeds, however, will never decay. 
+Deterioratefood start

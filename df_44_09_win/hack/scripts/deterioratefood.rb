@@ -43,7 +43,7 @@ class DeteriorateFood
         items.each { |type|
             type.each { |i|
                 i.wear_timer += 1
-                if (i.wear_timer > 24 + rand(8))
+                if (i.wear_timer > 40 + rand(8)) #a harvest is 25 days for plump helmets, 41 days for others, decay sets in at 120 days.
                     i.wear_timer = 0
                     i.wear += 1
                 end
