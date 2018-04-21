@@ -19,16 +19,16 @@ Usage: ``starvingdead (start|stop)``
 class StarvingDead
 
     def initialize
-        @threshold = 3
-        @die_threshold = 6
+        @threshold = 1
+        @die_threshold = 8
     end
 
     def process
         return false unless @running
         month_length = 67200
-        if (@undead_count >= 25)
-            month_length *= 25 / @undead_count
-        end
+        #if (@undead_count >= 50)
+        #    month_length *= 50 / @undead_count
+        #end
 
         @undead_count = 0
         df.world.units.active.each { |u|
@@ -36,7 +36,7 @@ class StarvingDead
                 @undead_count += 1
                 if (u.curse.time_on_site > month_length * @threshold)
                     u.body.physical_attrs.each { |att|
-                        att.value = att.value + (att.value * 0.05)
+                        att.value = att.value + (att.value * 0.025)
                     }
                 end
 
