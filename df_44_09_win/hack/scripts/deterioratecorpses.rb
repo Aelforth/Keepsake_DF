@@ -37,9 +37,9 @@ class DeteriorateCorpses
         df.world.items.other[:ANY_CORPSE].each { |i|
             if (i.flags.dead_dwarf == false)
                 i.wear_timer += 1
-                if (i.wear_timer > 60 + rand(16)) #deteriorate one half step every 60 days. Disappears after 6 cycles or about a year.
+                if (i.wear_timer > 24 + rand(8))
                     i.wear_timer = 0
-                    i.wear += 0.5
+                    i.wear += 1
                 end
                 if (i.wear > 3)
                     i.flags.garbage_collect = true
@@ -52,9 +52,9 @@ class DeteriorateCorpses
         df.world.items.other[:REMAINS].each { |i|
             if (i.flags.dead_dwarf == false)
                 i.wear_timer += 1
-                if (i.wear_timer > 20) #see above, except about four months (120 days).
+                if (i.wear_timer > 6)
                     i.wear_timer = 0
-                    i.wear += 0.5
+                    i.wear += 1
                 end
                 if (i.wear > 3)
                     i.flags.garbage_collect = true

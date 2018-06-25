@@ -8,8 +8,10 @@ item_weapon
 [SKILL:WHIP]
 [TWO_HANDED:27500]
 [MINIMUM_SIZE:22500]
-[MATERIAL_SIZE:1]
-[ATTACK:BLUNT:1:10:lash:lashes:NO_SUB:5000]
+NO_REVISED!MATERIAL_SIZE:1]
+NO_REVISED!ATTACK:BLUNT:1:10:lash:lashes:NO_SUB:5000]
+YES_REVISED[MATERIAL_SIZE:2] Revision: increased the material requirements to make whips.
+YES_REVISED[ATTACK:BLUNT:10:10:lash:lashes:NO_SUB:5000] Revision: increased the contact area of whips to weaken the weapon.
 	[ATTACK_PREPARE_AND_RECOVER:4:4]
 	[ATTACK_FLAG_BAD_MULTIATTACK]
 
@@ -51,7 +53,8 @@ Penetration size currently only matters for edged attacks.
 [MATERIAL_SIZE:3]
 [ATTACK:EDGE:20000:4000:slash:slashes:NO_SUB:1250]
 	[ATTACK_PREPARE_AND_RECOVER:3:3]
-[ATTACK:EDGE:50:2000:stab:stabs:NO_SUB:1000]
+NO_REVISED!ATTACK:EDGE:50:2000:stab:stabs:NO_SUB:1000]
+YES_REVISED[ATTACK:EDGE:12:4000:stab:stabs:NO_SUB:1000] Revision: short swords have a smaller contact area and penetrate better.
 	[ATTACK_PREPARE_AND_RECOVER:3:3]
 [ATTACK:BLUNT:20000:4000:slap:slaps:flat:1250]
 	[ATTACK_PREPARE_AND_RECOVER:3:3]
@@ -65,7 +68,8 @@ Penetration size currently only matters for edged attacks.
 [TWO_HANDED:47500]
 [MINIMUM_SIZE:5000] amphibian men, etc., need variants
 [MATERIAL_SIZE:3]
-[ATTACK:EDGE:20:10000:stab:stabs:NO_SUB:1000]
+NO_REVISED!ATTACK:EDGE:20:10000:stab:stabs:NO_SUB:1000]
+YES_REVISED[ATTACK:EDGE:12:10000:stab:stabs:NO_SUB:1000] Revision: spears have a smaller contact area.
 	[ATTACK_PREPARE_AND_RECOVER:3:3]
 [ATTACK:BLUNT:10000:6000:bash:bashes:shaft:1250]
 	[ATTACK_PREPARE_AND_RECOVER:3:3]
@@ -85,8 +89,10 @@ Penetration size currently only matters for edged attacks.
 [SIZE:400]
 [SKILL:HAMMER]
 [RANGED:CROSSBOW:BOLT]
-[SHOOT_FORCE:1000]
-[SHOOT_MAXVEL:200]  This is just to make sure a near-weightless object doesn't go faster than the string could possibly go.
+NO_REVISED!SHOOT_FORCE:1000]
+NO_REVISED!SHOOT_MAXVEL:200]  This is just to make sure a near-weightless object doesn't go faster than the string could possibly go.
+YES_REVISED[SHOOT_FORCE:400] Revision: crossbows are faster and penetrate better.
+YES_REVISED[SHOOT_MAXVEL:500]  This is just to make sure a near-weightless object doesn't go faster than the string could possibly go.
 [TWO_HANDED:0]
 [MINIMUM_SIZE:15000]
 [MATERIAL_SIZE:3]
@@ -108,8 +114,10 @@ Penetration size currently only matters for edged attacks.
 [SIZE:300]
 [SKILL:SWORD]
 [RANGED:BOW:ARROW]
-[SHOOT_FORCE:1000]
-[SHOOT_MAXVEL:200]
+NO_REVISED!SHOOT_FORCE:1000]
+NO_REVISED!SHOOT_MAXVEL:200]
+YES_REVISED[SHOOT_FORCE:300] Revision: bows are faster and sharper, but are slower than bolts.
+YES_REVISED[SHOOT_MAXVEL:400]
 [TWO_HANDED:0]
 [MINIMUM_SIZE:15000]
 [MATERIAL_SIZE:3]
@@ -175,13 +183,18 @@ Penetration size currently only matters for edged attacks.
 [NAME:long sword:long swords]
 [SIZE:700]
 [SKILL:SWORD]
-[TWO_HANDED:57500]
+NO_REVISED!TWO_HANDED:57500]
+YES_REVISED[TWO_HANDED:65500] Revision: increased the minimum size requirement for one-handed longsword use.
 [MINIMUM_SIZE:52500]
 [MATERIAL_SIZE:4]
-[ATTACK:EDGE:60000:6000:slash:slashes:NO_SUB:1250]
+NO_REVISED!ATTACK:EDGE:60000:6000:slash:slashes:NO_SUB:1250]
+YES_REVISED[ATTACK:EDGE:70000:6000:slash:slashes:NO_SUB:1250] Revision: increased the contact area of long sword slashes.
 	[ATTACK_PREPARE_AND_RECOVER:3:3]
 [ATTACK:EDGE:50:3000:stab:stabs:NO_SUB:1000]
 	[ATTACK_PREPARE_AND_RECOVER:3:3]
+Revision: added a half-sworded stab to long swords.
+YES_REVISED[ATTACK:EDGE:12:6000:half-sworded stab:grabs the blade and stabs:NO_SUB:1000]
+	YES_REVISED[ATTACK_PREPARE_AND_RECOVER:5:4]
 [ATTACK:BLUNT:60000:6000:slap:slaps:flat:1250]
 	[ATTACK_PREPARE_AND_RECOVER:3:3]
 [ATTACK:BLUNT:100:1000:strike:strikes:pommel:1000]
@@ -261,12 +274,14 @@ Penetration size currently only matters for edged attacks.
 
 [ITEM_WEAPON:ITEM_WEAPON_SCIMITAR]
 [NAME:scimitar:scimitars]
-[SIZE:300]
+NO_REVISED!SIZE:300]
+YES_REVISED[SIZE:500] Revision: increased the size of scimitars.
 [SKILL:SWORD]
 [TWO_HANDED:37500]
 [MINIMUM_SIZE:32500]
 [MATERIAL_SIZE:3]
-[ATTACK:EDGE:20000:4000:slash:slashes:NO_SUB:1250]
+NO_REVISED!ATTACK:EDGE:20000:4000:slash:slashes:NO_SUB:1250]
+YES_REVISED[ATTACK:EDGE:50000:6000:slash:slashes:NO_SUB:1250] Revision: scimitar slashes have a greater contact area and more force.
 	[ATTACK_PREPARE_AND_RECOVER:3:3]
 [ATTACK:EDGE:50:2000:stab:stabs:NO_SUB:1000]
 	[ATTACK_PREPARE_AND_RECOVER:3:3]
@@ -319,3 +334,54 @@ Penetration size currently only matters for edged attacks.
 [ATTACK:BLUNT:10000:6000:bash:bashes:shaft:1250]
 	[ATTACK_PREPARE_AND_RECOVER:3:3]
 [TRAINING]
+
+Revision: added elven clubs.
+	YES_REVISED[ITEM_WEAPON:ITEM_WEAPON_CLUB]
+	YES_REVISED[NAME:club:clubs]
+	YES_REVISED[SIZE:1200]
+	YES_REVISED[SKILL:MACE]
+	YES_REVISED[TWO_HANDED:37500]
+	YES_REVISED[MINIMUM_SIZE:32500]
+	YES_REVISED[MATERIAL_SIZE:3]
+	YES_REVISED[ATTACK:BLUNT:10:200:bash:bashes:NO_SUB:2000]
+		YES_REVISED[ATTACK_PREPARE_AND_RECOVER:3:3]
+
+Revision: added elven two-handed clubs.
+	YES_REVISED[ITEM_WEAPON:ITEM_WEAPON_CLUB_2H]
+	YES_REVISED[NAME:club:clubs]
+	YES_REVISED[ADJECTIVE:giant]
+	YES_REVISED[SIZE:2000]
+	YES_REVISED[SKILL:MACE]
+	YES_REVISED[TWO_HANDED:77500]
+	YES_REVISED[MINIMUM_SIZE:57500]
+	YES_REVISED[MATERIAL_SIZE:5]
+	YES_REVISED[ATTACK:BLUNT:10:200:bash:bashes:NO_SUB:2250]
+		YES_REVISED[ATTACK_PREPARE_AND_RECOVER:4:5]
+
+Revision: added elven spear-throwers.
+	YES_REVISED[ITEM_WEAPON:ITEM_WEAPON_ATLATL]
+	YES_REVISED[NAME:atlatl:atlatls]
+	YES_REVISED[SIZE:400]
+	YES_REVISED[SKILL:MACE]
+	YES_REVISED[RANGED:BOW:ATLATL_DART]
+	YES_REVISED[SHOOT_FORCE:2500]
+	YES_REVISED[SHOOT_MAXVEL:200]  This is just to make sure a near-weightless object doesn't go faster than the puny elven arms could possibly go.
+	YES_REVISED[TWO_HANDED:0]
+	YES_REVISED[MINIMUM_SIZE:15000]
+	YES_REVISED[MATERIAL_SIZE:3]
+	YES_REVISED[ATTACK:BLUNT:10000:4000:bash:bashes:NO_SUB:1250]
+		YES_REVISED[ATTACK_PREPARE_AND_RECOVER:3:3]
+
+Revision: added hardened elven wooden spears.
+	YES_REVISED[ITEM_WEAPON:ITEM_WEAPON_SPEAR_WOOD]
+	YES_REVISED[NAME:spear:spears]
+	YES_REVISED[ADJECTIVE:hardened]
+	YES_REVISED[SIZE:400]
+	YES_REVISED[SKILL:SPEAR]
+	YES_REVISED[TWO_HANDED:47500]
+	YES_REVISED[MINIMUM_SIZE:5000] amphibian men, etc., need variants
+	YES_REVISED[MATERIAL_SIZE:3]
+	YES_REVISED[ATTACK:EDGE:3:10000:stab:stabs:NO_SUB:1400]
+		YES_REVISED[ATTACK_PREPARE_AND_RECOVER:3:3]
+	YES_REVISED[ATTACK:BLUNT:10000:6000:bash:bashes:shaft:1250]
+		YES_REVISED[ATTACK_PREPARE_AND_RECOVER:3:3]

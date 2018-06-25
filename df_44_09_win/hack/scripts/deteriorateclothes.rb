@@ -29,7 +29,7 @@ class DeteriorateClothes
 
         items.each { |type|
             type.each { |i|
-                if (i.subtype.armorlevel == 0 and i.flags.on_ground == true and i.wear > 1)
+                if (i.subtype.armorlevel == 0 and i.flags.on_ground == true and i.wear > 0)
                     i.wear_timer *= i.wear + 0.5
                     if (i.wear > 2)
                         i.flags.garbage_collect = true

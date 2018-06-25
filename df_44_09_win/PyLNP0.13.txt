@@ -1,2 +1,0 @@
-PyLNP V0.13 extras installed!
-Time: 2018-04-17 22:10:11

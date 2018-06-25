@@ -1,2 +1,182 @@
 *** STARTING NEW GAME ***
+Generating world using parameter set CREATE WORLD NOW = 3335555
+ Seed: vrIsN4cOcQjpDfhJ9CpU
+ History Seed: HMWnE47CKbtKFKriXtFK
+ Name Seed: D9mxJkxtt23EQFpxThVc
+ Creature Seed: ixuIQQ8SCq6VwfYYOtJu
+Nothing has arrived on the calendar.
+The weather has cleared.
+Nothing has arrived on the calendar.
+The weather has cleared.
+Nothing has arrived on the calendar.
+The weather has cleared.
+** Starting New Outpost **
+You have struck microcline!
+x2
+You have struck hematite!
+The common snapping turtle attacks the sturgeon but He jumps away!
+The common snapping turtle bites the sturgeon in the lower body, lightly tapping the target!
+The common snapping turtle attacks the sturgeon but He jumps away!
+The common snapping turtle misses the sturgeon!
+The common snapping turtle attacks the sturgeon but He jumps away!
+The sturgeon slaps the common snapping turtle in the right rear foot with his tail, bruising the muscle!
+The common snapping turtle misses the sturgeon!
+The common snapping turtle attacks the sturgeon but He jumps away!
+The sturgeon slaps the common snapping turtle in the left rear foot with his tail and the injured part explodes into gore!
+An artery has been opened by the attack!
+The sturgeon attacks the common snapping turtle but She jumps away!
+There is nothing to catch in the eastern swamps.
+The common snapping turtle misses the sturgeon!
+The sturgeon slaps the common snapping turtle in the left rear foot with his tail, bruising the muscle!
+The common snapping turtle attacks the sturgeon but He jumps away!
+The sturgeon slaps the common snapping turtle in the left rear leg with his tail and the injured part collapses into a lump of gore!
+An artery has been opened by the attack!
+The common snapping turtle gives in to pain.
+The common snapping turtle falls over.
+The common snapping turtle regains consciousness.
+The common snapping turtle gives in to pain.
+The sturgeon stands up.
+The common snapping turtle regains consciousness.
+The common snapping turtle gives in to pain.
+The common snapping turtle regains consciousness.
+The common snapping turtle gives in to pain.
+The sea lamprey misses the sturgeon!
+The sea lamprey attacks the sturgeon but He jumps away!
+The sea lamprey slaps the sturgeon in the left fin with her tail, bruising the muscle!
+The sea lamprey slaps the sturgeon in the left fin with her tail, lightly tapping the target!
+The sea lamprey slaps the sturgeon in the right fin with her tail, bruising the fat!
+The sea lamprey slaps the sturgeon in the dorsal fin with her tail, bruising the muscle!
+The sea lamprey slaps the sturgeon in the upper body with her tail, bruising the fat!
+The sea lamprey attacks the sturgeon but He jumps away!
+The sea lamprey slaps the sturgeon in the left fin with her tail, bruising the fat!
+The sea lamprey attacks the sturgeon but He jumps away!
+The sturgeon misses the sea lamprey!
+The sea lamprey attacks the sturgeon but He jumps away!
+The sturgeon attacks the sea lamprey but She jumps away!
+The sea lamprey slaps the sturgeon in the tail with her tail, bruising the muscle!
+The sturgeon misses the sea lamprey!
+The sea lamprey attacks the sturgeon but He jumps away!
+The sturgeon misses the sea lamprey!
+The sea lamprey slaps the sturgeon in the head with her tail, bruising the fat!
+The sturgeon has been stunned!
+The sturgeon attacks the sea lamprey but She jumps away!
+The sturgeon slaps the sea lamprey in the upper body with his tail, bruising the muscle, tearing apart the right false ribs and bruising the liver!
+The sea lamprey is propelled away by the force of the blow!
+The sea lamprey slams into an obstacle!
+The sea lamprey stands up.
+The sea lamprey attacks the sturgeon but He jumps away!
+The sturgeon misses the sea lamprey!
+The sea lamprey slaps the sturgeon in the upper body with her tail, bruising the fat!
+The sturgeon attacks the sea lamprey but She jumps away!
+The sea lamprey slaps the sturgeon in the upper body with her tail, bruising the fat!
+The sturgeon misses the sea lamprey!
+The sea lamprey is no longer stunned.
+The sturgeon is no longer stunned.
+The sea lamprey slaps the sturgeon in the tail with her tail, bruising the fat!
+The sturgeon misses the sea lamprey!
+The sea lamprey slaps the sturgeon in the right fin with her tail, bruising the fat!
+The sea lamprey attacks the sturgeon but He jumps away!
+The sturgeon slaps the sea lamprey in the lower body with his tail, bruising the muscle and bruising the guts!
+The sea lamprey attacks the sturgeon but He jumps away!
+The sturgeon misses the sea lamprey!
+The sea lamprey attacks the sturgeon but He jumps away!
+The sturgeon slaps the sea lamprey in the tail with his tail and the injured part explodes into gore!
+An artery has been opened by the attack!
+The sea lamprey bites the sturgeon in the lower body, bruising the fat!
+The sturgeon looks sick!
+The sturgeon attacks the sea lamprey but She jumps away!
+The sea lamprey misses the sturgeon!
+The sea lamprey attacks the sturgeon but He jumps away!
+The sturgeon misses the sea lamprey!
+The sea lamprey bites the sturgeon in the lower body, bruising the fat!
+The sturgeon attacks the sea lamprey but She jumps away!
+The sea lamprey attacks the sturgeon but He jumps away!
+The sturgeon attacks the sea lamprey but She jumps away!
+The sea lamprey attacks the sturgeon but He jumps away!
+The sturgeon misses the sea lamprey!
+The sea lamprey bites the sturgeon in the lower body, bruising the fat!
+The sturgeon misses the sea lamprey!
+The sea lamprey bites the sturgeon in the left fin, bruising the fat!
+The sturgeon misses the sea lamprey!
+The sea lamprey attacks the sturgeon but He jumps away!
+The sea lamprey bites the sturgeon in the dorsal fin, bruising the fat!
+The sturgeon misses the sea lamprey!
+The sea lamprey misses the sturgeon!
+The sea lamprey bites the sturgeon in the lower body, bruising the fat!
+The sturgeon misses the sea lamprey!
+The sea lamprey bites the sturgeon in the lower body, bruising the fat!
+The sturgeon looks sick!
+The sturgeon misses the sea lamprey!
+The sea lamprey bites the sturgeon in the left fin, bruising the fat!
+The sea lamprey bites the sturgeon in the dorsal fin, bruising the fat!
+The sea lamprey attacks the sturgeon but He jumps away!
+The sea lamprey bites the sturgeon in the upper body, bruising the fat!
 *** STARTING NEW GAME ***
+Generating world using parameter set MEDIUM ISLAND OPTIMIZED CAVERNS
+ Seed: dVikjOkiyuZVNrNlNqZG
+ History Seed: 5agBEkDIw5vqZE5ItLFu
+ Name Seed: VVyvFKhfNWvgCXRNXxpe
+ Creature Seed: iPweYSAW4UaxsXwWO7lK
+Nothing has arrived on the calendar.
+The weather has cleared.
+*** STARTING NEW GAME ***
+*** STARTING NEW GAME ***
+Generating world using parameter set CREATE WORLD NOW = 1232335
+ Seed: pfuWDC20Usv7FHVfLins
+ History Seed: Dm0Lg8foe59gngrQLptw
+ Name Seed: 7ds1RC5FHe3CyDvnVp7u
+ Creature Seed: Q5I6KQ4OOu4ZMJUUALx8
+Nothing has arrived on the calendar.
+The weather has cleared.
+Nothing has arrived on the calendar.
+The weather has cleared.
+** Starting New Outpost **
+You have struck tetrahedrite!
+x2
+The weather has cleared.
+You have struck amber opal!
+You have struck gypsum!
+You have struck lignite!
+Rith Melbiln•m has become a Engraver.
+The stray dog scratches the two-humped camel in the left hind leg, denting the skin and bruising the fat!
+The stray dog scratches the two-humped camel in the left forefoot, tearing the fat and bruising the muscle!
+The stray dog attacks the two-humped camel but He jumps away!
+The stray dog scratches the two-humped camel in the teeth, but the attack glances away!
+The force bends the head!
+The stray dog misses the two-humped camel!
+The stray dog attacks the two-humped camel but He jumps away!
+The stray dog scratches the two-humped camel in the tail, tearing the fat!
+The stray dog attacks the two-humped camel but He jumps away!
+The stray dog scratches the two-humped camel in the head, denting the skin and bruising the muscle!
+The force bends the neck!
+The stray dog attacks the two-humped camel but He jumps away!
+The stray dog scratches the two-humped camel in the right forefoot, denting the skin and bruising the fat!
+The stray dog attacks the two-humped camel but He jumps away!
+The stray dog scratches the two-humped camel in the right foreleg, tearing the skin and bruising the fat!
+It has started raining.
+The stray dog scratches the two-humped camel in the right hind foot, lightly tapping the target!
+The stray dog scratches the two-humped camel in the tail, denting the skin and bruising the muscle!
+The two-humped camel attacks the stray dog but She jumps away!
+The stray dog scratches the two-humped camel in the left forefoot, denting the skin and bruising the muscle!
+The two-humped camel kicks the stray dog in the second right rear toe with his left hind foot, shattering the nail!
+The force twists the right hind paw, tearing apart the muscle and bruising the bone!
+An artery has been opened by the attack, many nerves have been severed, a ligament has been torn and a tendon has been torn!
+The stray dog collapses and falls to the ground from over-exertion.
+The stray dog stands up.
+The stray dog scratches the two-humped camel in the head, denting the skin!
+The two-humped camel attacks the stray dog but She jumps away!
+The two-humped camel kicks the stray dog in the abdomen with his right forefoot, bruising the muscle and bruising the guts!
+The stray dog scratches the two-humped camel in the right foreleg, tearing the skin and bruising the fat!
+The two-humped camel kicks the stray dog in the right hind leg with his left hind foot, bruising the muscle!
+The stray dog scratches the two-humped camel in the left forefoot, denting the skin and bruising the fat!
+The two-humped camel charges at the stray dog!
+The two-humped camel collides with the stray dog!
+The stray dog is knocked over and tumbles backward!
+The stray dog stands up.
+The two-humped camel misses the stray dog!
+The stray dog misses the two-humped camel!
+The two-humped camel charges at the stray dog!
+The stray dog jumps away!
+The stray dog scratches the two-humped camel in the tail, tearing the fat!
+The two-humped camel misses the stray dog!
+The stray dog attacks the two-humped camel but He jumps away!

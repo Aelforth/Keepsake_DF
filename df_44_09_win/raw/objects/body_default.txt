@@ -1,6 +1,6 @@
 body_default
 
-[OBJECT:BODY]
+NO_REVISED!OBJECT:BODY]
 
 [BODY:BASIC_1PARTBODY]
 	Categories are user-defined strings that can be used elsewhere to refer to groups of bodyparts for other commands.

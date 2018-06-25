@@ -1,0 +1,100 @@
+fastdwarf 1 1
+setfps 300
+unreveal
+reveal all
+reveal-all
+die
+unreveal
+reveal hell
+die
+reveal
+die
+reveal
+die
+reveal
+die
+doie
+print-twbt-override
+quicksave
+print-twbt-override
+twbt redraw_all 1
+die
+print-twbt-override
+twbt redraw_all 1
+die
+print-twbt-override
+die
+reveal
+die
+unreveal
+reveal
+createitem BOULDER MARBLE 10
+createitem BAR IRON 10
+createitem STATUE IRON 10
+createitem STATUE MARBLE 10
+die
+unreveal
+twbt redraw_all 1
+reveal
+die
+reveal hell
+die
+quicksave
+quickave
+createitem WOOD PLANT_MAT:PLUM:WOOD 10
+createitem WOOD PLUM 10
+createitem WOOD PLANT_MAT:PLUM:WOOD 10
+createitem WOOD PLUM 10
+createitem WOOD PLUM WOOD 10
+createitem WOOD PLUM WOOD
+fastdwarf 1
+createitem WOOD ALDER WOOD
+createitem WOOD PLANT_MAT:ALDER:WOOD WOOD
+die
+createitem WOOD PLANT_MAT:ALDER:WOOD WOOD
+createitem WOOD ALDER WOOD
+createitem LOG ALDER WOOD
+fastdwarf 1
+die
+createitem STATUE QUARTZITE 200
+quicksave
+fastdwarf 1
+createitem STATUE GRANITE 200
+die
+print-twbt-override
+clean map snow
+clear map snow
+die
+print-twbt-override
+die
+print-twbt-override
+die
+quicksave
+reveal hell
+die
+twbt redraw_all 1
+reveal hell
+realcolors
+print-twbt-override
+createitem BAR COPPER 10
+createitem BAR SILVER 10
+createitem BAR GOLD 10
+createitem BAR IRON 10
+die
+print-twbt-override
+twbt redraw_all 1
+die
+print-twbt-override
+twbt redraw_all 1
+die
+print-twbt-override
+twbt redraw_all 1
+die
+print-twbt-override
+twbt redraw_all 1
+die
+twbt redraw_all 1
+die
+twbt redraw_all 1
+die
+quicksave

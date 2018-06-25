@@ -1,5 +1,9 @@
 multilevel 5
+season-palette start
+twbt unit_transparency 1
 twbt workshop_transparency 1
+twbt redraw_all 1
+#r#ealcolors
 
 ##############################
 # Generic dwarfmode bindings #
@@ -57,9 +61,6 @@ keybinding add Alt-S@dwarfmode/Default gui/settings-manager
 
 # change quantity of manager orders
 keybinding add Alt-Q@jobmanagement/Main gui/manager-quantity
-
-# view combat reports for the selected unit/corpse/spatter
-keybinding add Ctrl-Shift-R view-unit-reports
 
 ##############################
 # Generic adv mode bindings  #
@@ -213,7 +214,8 @@ tweak civ-view-agreement
 tweak eggs-fertile
 tweak fps-min
 tweak hide-priority
-tweak kitchen-prefs-empty
+#tweak kitchen-keys
+#tweak kitchen-prefs-empty
 tweak max-wheelbarrow
 tweak shift-8-scroll
 tweak title-start-rename
@@ -280,3 +282,4 @@ gui/load-screen enable
 
 # Run commands in this file when a world loads
 sc-script add SC_WORLD_LOADED onLoad.init-example
+
