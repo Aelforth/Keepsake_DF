@@ -43,7 +43,7 @@ class DeteriorateFood
         items.each { |type|
             type.each { |i|
                 i.wear_timer += 1
-                if (i.wear_timer > 24 + rand(8))
+                if (i.wear_timer > 32 + rand(8))
                     i.wear_timer = 0
                     i.wear += 1
                 end

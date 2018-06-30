@@ -2,7 +2,7 @@ multilevel 5
 season-palette start
 twbt unit_transparency 1
 twbt workshop_transparency 1
-twbt redraw_all 1
+#twbt redraw_all 1
 #r#ealcolors
 
 ##############################
@@ -183,13 +183,13 @@ tweak military-stable-assign
 tweak military-color-assigned
 
 # remove inverse dependency of squad training speed on unit list size and use more sparring
-# tweak military-training
+tweak military-training
 
 # make crafted cloth items wear out with time like in old versions (bug 6003)
 tweak craft-age-wear
 
 # stop adamantine clothing from wearing out (bug 6481)
-#tweak adamantine-cloth-wear
+tweak adamantine-cloth-wear
 
 # Add "Select all" and "Deselect all" options to farm plot menus
 tweak farm-plot-select

@@ -20,13 +20,13 @@ class StarvingDead
 
     def initialize
         @threshold = 1
-        @die_threshold = 6
+        @die_threshold = 8
     end
 
     def process
         return false unless @running
         month_length = 67200
-        if (@undead_count >= 25)
+        if (@undead_count >= 35)
             month_length *= 25 / @undead_count
         end
 
@@ -36,7 +36,7 @@ class StarvingDead
                 @undead_count += 1
                 if (u.curse.time_on_site > month_length * @threshold)
                     u.body.physical_attrs.each { |att|
-                        att.value = att.value - (att.value * 0.02)
+                        att.value = att.value + (att.value * 0.04)
                     }
                 end
 

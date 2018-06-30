@@ -37,7 +37,7 @@ class DeteriorateCorpses
         df.world.items.other[:ANY_CORPSE].each { |i|
             if (i.flags.dead_dwarf == false)
                 i.wear_timer += 1
-                if (i.wear_timer > 24 + rand(8))
+                if (i.wear_timer > 96 + rand(8))
                     i.wear_timer = 0
                     i.wear += 1
                 end
@@ -52,7 +52,7 @@ class DeteriorateCorpses
         df.world.items.other[:REMAINS].each { |i|
             if (i.flags.dead_dwarf == false)
                 i.wear_timer += 1
-                if (i.wear_timer > 6)
+                if (i.wear_timer > 32)
                     i.wear_timer = 0
                     i.wear += 1
                 end
