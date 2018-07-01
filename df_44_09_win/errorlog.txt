@@ -1,0 +1,93 @@
+*** Error(s) found in the file "raw/objects/reaction_elves_KSDF.txt"
+Unrecognized Skill Token: HERBALIST
+ASTRUM_TREE:WOOD: Unrecognized Color Token in Material Template: DARK_GREY
+ASTRUM_TREE:WOOD: Unrecognized Color Token in Material Template: DARK_GREY
+ASTRUM_TREE:WOOD: Unrecognized Color Token in Material Template: DARK_GREY
+ASTRUM_TREE:WOOD: Unrecognized Color Token in Material Template: DARK_GREY
+ASTRUM_TREE:FRUIT: Unrecognized Color Token in Material Template: CYAN
+ASTRUM_TREE:FRUIT: Unrecognized Color Token in Material Template: CYAN
+ASTRUM_TREE:FRUIT: Unrecognized Color Token in Material Template: CYAN
+ASTRUM_TREE:FRUIT: Unrecognized Color Token in Material Template: CYAN
+ASTRUM_TREE:FRUIT: Unrecognized Color Token in Material Template: CYAN
+ASTRUM_TREE:FRUIT: Unrecognized Color Token in Material Template: CYAN
+*** Error(s) finalizing the creature BLENDECFD
+Unrecognized Inorganic Token: VAPORSTONE_FD
+Unrecognized Inorganic Token: VAPORSTONE_FD
+*** Error(s) finalizing the creature IMP_FIRE_FD
+Unrecognized Inorganic Token: VAPORSTONE_FD
+Unrecognized Inorganic Token: VAPORSTONE_FD
+*** Error(s) finalizing the creature NIGHTWINGFD
+Unrecognized Inorganic Token: VAPORSTONE_FD
+Unrecognized Inorganic Token: VAPORSTONE_FD
+*** Error(s) finalizing the reaction ASTRUM_MAKING
+ASTRUM_MAKING:Unrecognized Item Token: 3
+*** Error(s) found in the file "data/save/region2/raw/objects/reaction_elves_KSDF.txt"
+Unrecognized Skill Token: HERBALIST
+ASTRUM_TREE:WOOD: Unrecognized Color Token in Material Template: DARK_GREY
+ASTRUM_TREE:WOOD: Unrecognized Color Token in Material Template: DARK_GREY
+ASTRUM_TREE:WOOD: Unrecognized Color Token in Material Template: DARK_GREY
+ASTRUM_TREE:WOOD: Unrecognized Color Token in Material Template: DARK_GREY
+ASTRUM_TREE:FRUIT: Unrecognized Color Token in Material Template: CYAN
+ASTRUM_TREE:FRUIT: Unrecognized Color Token in Material Template: CYAN
+ASTRUM_TREE:FRUIT: Unrecognized Color Token in Material Template: CYAN
+ASTRUM_TREE:FRUIT: Unrecognized Color Token in Material Template: CYAN
+ASTRUM_TREE:FRUIT: Unrecognized Color Token in Material Template: CYAN
+ASTRUM_TREE:FRUIT: Unrecognized Color Token in Material Template: CYAN
+*** Error(s) finalizing the creature BLENDECFD
+Unrecognized Inorganic Token: VAPORSTONE_FD
+Unrecognized Inorganic Token: VAPORSTONE_FD
+*** Error(s) finalizing the creature IMP_FIRE_FD
+Unrecognized Inorganic Token: VAPORSTONE_FD
+Unrecognized Inorganic Token: VAPORSTONE_FD
+*** Error(s) finalizing the creature NIGHTWINGFD
+Unrecognized Inorganic Token: VAPORSTONE_FD
+Unrecognized Inorganic Token: VAPORSTONE_FD
+*** Error(s) finalizing the reaction ASTRUM_MAKING
+ASTRUM_MAKING:Unrecognized Item Token: 3
+*** Error(s) found in the file "data/save/region2/raw/objects/reaction_elves_KSDF.txt"
+Unrecognized Skill Token: HERBALIST
+ASTRUM_TREE:WOOD: Unrecognized Color Token in Material Template: DARK_GREY
+ASTRUM_TREE:WOOD: Unrecognized Color Token in Material Template: DARK_GREY
+ASTRUM_TREE:WOOD: Unrecognized Color Token in Material Template: DARK_GREY
+ASTRUM_TREE:WOOD: Unrecognized Color Token in Material Template: DARK_GREY
+ASTRUM_TREE:FRUIT: Unrecognized Color Token in Material Template: CYAN
+ASTRUM_TREE:FRUIT: Unrecognized Color Token in Material Template: CYAN
+ASTRUM_TREE:FRUIT: Unrecognized Color Token in Material Template: CYAN
+ASTRUM_TREE:FRUIT: Unrecognized Color Token in Material Template: CYAN
+ASTRUM_TREE:FRUIT: Unrecognized Color Token in Material Template: CYAN
+ASTRUM_TREE:FRUIT: Unrecognized Color Token in Material Template: CYAN
+*** Error(s) finalizing the creature BLENDECFD
+Unrecognized Inorganic Token: VAPORSTONE_FD
+Unrecognized Inorganic Token: VAPORSTONE_FD
+*** Error(s) finalizing the creature IMP_FIRE_FD
+Unrecognized Inorganic Token: VAPORSTONE_FD
+Unrecognized Inorganic Token: VAPORSTONE_FD
+*** Error(s) finalizing the creature NIGHTWINGFD
+Unrecognized Inorganic Token: VAPORSTONE_FD
+Unrecognized Inorganic Token: VAPORSTONE_FD
+*** Error(s) finalizing the reaction ASTRUM_MAKING
+ASTRUM_MAKING:Unrecognized Item Token: 3
+*** Error(s) found in the file "raw/objects/reaction_elves_KSDF.txt"
+Unrecognized Skill Token: HERBALIST
+ASTRUM_TREE:WOOD: Unrecognized Color Token in Material Template: DARK_GREY
+ASTRUM_TREE:WOOD: Unrecognized Color Token in Material Template: DARK_GREY
+ASTRUM_TREE:WOOD: Unrecognized Color Token in Material Template: DARK_GREY
+ASTRUM_TREE:WOOD: Unrecognized Color Token in Material Template: DARK_GREY
+ASTRUM_TREE:FRUIT: Unrecognized Color Token in Material Template: CYAN
+ASTRUM_TREE:FRUIT: Unrecognized Color Token in Material Template: CYAN
+ASTRUM_TREE:FRUIT: Unrecognized Color Token in Material Template: CYAN
+ASTRUM_TREE:FRUIT: Unrecognized Color Token in Material Template: CYAN
+ASTRUM_TREE:FRUIT: Unrecognized Color Token in Material Template: CYAN
+ASTRUM_TREE:FRUIT: Unrecognized Color Token in Material Template: CYAN
+*** Error(s) finalizing the creature BLENDECFD
+Unrecognized Inorganic Token: VAPORSTONE_FD
+Unrecognized Inorganic Token: VAPORSTONE_FD
+*** Error(s) finalizing the creature IMP_FIRE_FD
+Unrecognized Inorganic Token: VAPORSTONE_FD
+Unrecognized Inorganic Token: VAPORSTONE_FD
+*** Error(s) finalizing the creature NIGHTWINGFD
+Unrecognized Inorganic Token: VAPORSTONE_FD
+Unrecognized Inorganic Token: VAPORSTONE_FD
+*** Error(s) finalizing the reaction ASTRUM_MAKING
+ASTRUM_MAKING:Unrecognized Item Token: 3
+path fail: elf,74,43,3 -> 73,41,4: Id #52:Path Goal Chase Opponent Flood:Station None at 72,41,4

@@ -61,7 +61,7 @@ class StarvingDead
             @die_threshold = $script_args[2].gsub(/[^0-9\.]/,'').to_f
         end
 
-        puts "Starving Dead starting...weakness starts at #{@threshold} months, true death at #{@die_threshold} months"
+        puts "Starving Dead starting...hunger starts at #{@threshold} months, true death at #{@die_threshold} months"
     end
 
     def stop

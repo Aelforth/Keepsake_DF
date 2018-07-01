@@ -1,3 +1,9 @@
+autolabor enable
+setfps 500
+prospect all
+exportlegends all
+export legends all
+export-legends all
 fastdwarf 1 1
 setfps 300
 unreveal
@@ -92,9 +98,3 @@ twbt redraw_all 1
 die
 print-twbt-override
 twbt redraw_all 1
-die
-twbt redraw_all 1
-die
-twbt redraw_all 1
-die
-quicksave
